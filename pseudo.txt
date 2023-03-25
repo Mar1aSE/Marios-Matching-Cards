@@ -1,0 +1,8 @@
+declare my deck variables needed
+define variables to declare starting state of my game 
+store my elements to the class name in my html
+if card has been flipped or not
+if cards match or not
+call a functions to render the starting state of my game 
+add event listeners
+
