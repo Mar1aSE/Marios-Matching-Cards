@@ -51,6 +51,9 @@ function check() {
       secondClick.removeEventListener('clicked', clicked)
       matches++ 
       scoreEl.innerHTML = `Matches: ${matches}`
+      if (matches === 6) {
+        ALERT('YOU ARE A WINNER')
+      }
     }else if (firstClick.id !== secondClick.id) {
 
     setTimeout (() => {
