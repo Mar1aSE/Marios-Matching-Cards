@@ -52,7 +52,7 @@ function check() {
       matches++ 
       scoreEl.innerHTML = `Matches: ${matches}`
       if (matches === 6) {
-        ALERT('YOU ARE A WINNER')
+        alert('YOU ARE A WINNER')
       }
     }else if (firstClick.id !== secondClick.id) {
 
