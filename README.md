@@ -26,7 +26,8 @@ Once all cards are matched you will get a WINNER message in your screen!
 
 ## Getting Started:
 Link to my game: https://mar1ase.github.io/Marios-Matching-Cards/
-you can restart the game by refreshing the screen or by pressing the restart button.
+
+You can restart the game by refreshing the screen or by pressing the restart button.
 
 ## Next Steps: 
 Adding sound to the game to give it that mario theme feel.
