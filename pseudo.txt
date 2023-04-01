@@ -1,10 +1,10 @@
-declare deck variables needed
-const my elements
-define variables to declare starting state of my game 
-store my elements to the class name in my html
-if card has been flipped or not
-if cards match or not
-call a functions to render the starting state of my game 
-add event listeners for each card 
+declare deck variables needed.
+const my elements needed from my html && add event listeners.
+create my init function.   
+set my variables to my init function.
+track my clicks in a function. 
+have a function that checks my matches by the id and remove event listeners if they are matched as well as update my scoreBoard.
+if cards do not match have a setTimeout to flip them back. 
+
 
 
